@@ -256,3 +256,5 @@ const finalResult = () => {
 };
 
 finalResult();
+
+console.log('Dev');
